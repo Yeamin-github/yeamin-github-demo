@@ -1,2 +1,3 @@
 # yeamin-github-demo
-this is my first git repository
+this is my first git repository.
+Author: Md.Mahmudul Hassan Yeamin
